@@ -10,7 +10,7 @@ list = []
 for i in range(3):
     list.append(input('Введите длину стороны '+ list1[i]+ ":"))
 if not ((list[0] + list[1]) > list[2] and (list[0] + list[2]) >  list[1] and (list[1] + list[2]) > list[0]):
-    print('Такой треугольник не существует: ')
+    print('Такой треугольник не существует!')
 else:
     if (list[0] == list[1] == list[2]):
         print('Треугольник равносторонний')

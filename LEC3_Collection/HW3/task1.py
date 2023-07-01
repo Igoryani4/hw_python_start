@@ -13,6 +13,8 @@ print(y)
 print(list(y))
 
 
+
+"O (n)"
 """ items = collections.defaultdict(list)
 for i, item in enumerate(x):
   items[item].append(i)
@@ -21,6 +23,8 @@ for item, locs in items.iteritems():
     print ("duplicates of", item, "at", locs) """
 
 
+
+"O (n)"
 seen = set()
 for n in x:
   if n in seen:
@@ -28,6 +32,8 @@ for n in x:
   else:
     seen.add(n)
 
+
+"O (n ** 2)"
 for i in range(len(x)):
   for j in range(i + 1, len(x)):
     if x[i] == x[j]:

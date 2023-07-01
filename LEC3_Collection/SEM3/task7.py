@@ -16,3 +16,4 @@ for letter in txt:
     res[letter] = res.get(letter, 0) + 1
 
 print('\n'.join(f'{k} : {v}' for k, v in res.items()))
+

@@ -40,7 +40,7 @@ list_to_int(b)
 sum_num(a,b)
 pro_list(a,b)
 
-print('Проверка через Format:')
+print('Проверка через Fraction:')
 f_one = fractions.Fraction(a[0], a[1]) 
 f_two = fractions.Fraction(b[0], b[1])
 

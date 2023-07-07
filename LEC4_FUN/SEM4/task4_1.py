@@ -1,5 +1,3 @@
-
-
 # Функция принимает список чисел
 # Отсотрируйте список по убыванию суммы цифр
 
@@ -11,5 +9,4 @@ def sort_list(num):
     return summ
 
 list1 = [11, 13, 10, 18, 12, 14, 17, 15, 20, 19, 16]
-
 print(sorted(list1, key=sort_list, reverse=True))

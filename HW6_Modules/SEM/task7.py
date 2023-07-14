@@ -7,5 +7,6 @@
 import sys
 import module7 as mod
 
-print(mod.check_date('01.02.2000'))
-""" print(mod.check_date(*sys.argv[1:])) """
+""" print(mod.check_date('01.02.2000')) """
+print(mod.check_date(*sys.argv[1:]))
+

@@ -1,0 +1,22 @@
+""" Договоримся, что представленный выше объект JSON сохранён в виде текстового
+файла user.json в кодировке UTF-8 в той же директории, что и исполняемый код. """
+
+
+import json
+
+
+
+with open('HW8_Serialization/SEM/user.json', 'r', encoding='utf-8') as f:
+    json_file = json.load(f)
+    print(f'{type(json_file) = }\n{json_file = }')
+    print(f'{json_file["name"] = }')
+    print(f'{json_file["address"]["geo"] = }')
+    print(f'{json_file["email"] = }')
+
+
+""" Функция load загрузила объект из файла и произвела его десериализацию —
+превращение в словарь dict. Дальнейшие манипуляции со словарём не вызовут
+затруднений у Python разработчиков.
+
+А теперь представим, что мы подготовили информацию в виде многострочного str в
+python и хотим превратить его из JSON строки в объекты Python. """

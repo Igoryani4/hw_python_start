@@ -1,0 +1,291 @@
+{
+  "HW8_Serialization": {
+    "HW": {
+      "object_size": 5718,
+      "object_type": "directory",
+      "parant_directory": [
+        "HW8_Serialization"
+      ]
+    },
+    "LEC": {
+      "object_size": 25465,
+      "object_type": "directory",
+      "parant_directory": [
+        "HW8_Serialization"
+      ]
+    },
+    "SEM": {
+      "object_size": 6815,
+      "object_type": "directory",
+      "parant_directory": [
+        "HW8_Serialization"
+      ]
+    },
+    "result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "HW8_Serialization"
+    },
+    "result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "HW8_Serialization"
+    },
+    "result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "HW8_Serialization"
+    }
+  },
+  "HW8_Serialization/HW": {
+    "task6_work_class.py": {
+      "object_size": 1725,
+      "object_type": "file",
+      "parant_directory": "HW"
+    },
+    "task3.py": {
+      "object_size": 3483,
+      "object_type": "file",
+      "parant_directory": "HW"
+    },
+    "task7_to_class.py": {
+      "object_size": 504,
+      "object_type": "file",
+      "parant_directory": "HW"
+    },
+    "new_names_tab": {
+      "object_size": 6,
+      "object_type": "file",
+      "parant_directory": "HW"
+    }
+  },
+  "HW8_Serialization/LEC": {
+    "json": {
+      "object_size": 5661,
+      "object_type": "directory",
+      "parant_directory": [
+        "HW8_Serialization",
+        "LEC"
+      ]
+    },
+    "csv": {
+      "object_size": 12533,
+      "object_type": "directory",
+      "parant_directory": [
+        "HW8_Serialization",
+        "LEC"
+      ]
+    },
+    "pickle": {
+      "object_size": 7271,
+      "object_type": "directory",
+      "parant_directory": [
+        "HW8_Serialization",
+        "LEC"
+      ]
+    }
+  },
+  "HW8_Serialization/LEC/json": {
+    "task6_json.py": {
+      "object_size": 1105,
+      "object_type": "file",
+      "parant_directory": "json"
+    },
+    "task4_json.py": {
+      "object_size": 143,
+      "object_type": "file",
+      "parant_directory": "json"
+    },
+    "task5_json.py": {
+      "object_size": 694,
+      "object_type": "file",
+      "parant_directory": "json"
+    },
+    "user.json": {
+      "object_size": 468,
+      "object_type": "file",
+      "parant_directory": "json"
+    },
+    "task1_json.py": {
+      "object_size": 1139,
+      "object_type": "file",
+      "parant_directory": "json"
+    },
+    "new_user.json": {
+      "object_size": 264,
+      "object_type": "file",
+      "parant_directory": "json"
+    },
+    "task3_json.py": {
+      "object_size": 951,
+      "object_type": "file",
+      "parant_directory": "json"
+    },
+    "task2_json.py": {
+      "object_size": 897,
+      "object_type": "file",
+      "parant_directory": "json"
+    }
+  },
+  "HW8_Serialization/LEC/csv": {
+    "task3.py": {
+      "object_size": 3034,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "task6.py": {
+      "object_size": 1793,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "task2.py": {
+      "object_size": 631,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "biostats_new.csv": {
+      "object_size": 978,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "task5.py": {
+      "object_size": 1150,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "new_biostats.csv": {
+      "object_size": 366,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "task1.py": {
+      "object_size": 2851,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "biostats.csv": {
+      "object_size": 424,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "biostats_tab.csv": {
+      "object_size": 424,
+      "object_type": "file",
+      "parant_directory": "csv"
+    },
+    "task4.py": {
+      "object_size": 882,
+      "object_type": "file",
+      "parant_directory": "csv"
+    }
+  },
+  "HW8_Serialization/LEC/pickle": {
+    "task_from_work.py": {
+      "object_size": 291,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    },
+    "task3.py": {
+      "object_size": 1095,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    },
+    "my_dict.pickle": {
+      "object_size": 179,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    },
+    "task2.py": {
+      "object_size": 540,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    },
+    "task5.py": {
+      "object_size": 1111,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    },
+    "task1.py": {
+      "object_size": 1962,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    },
+    "task4.py": {
+      "object_size": 1686,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    },
+    "quest.pickle": {
+      "object_size": 407,
+      "object_type": "file",
+      "parant_directory": "pickle"
+    }
+  },
+  "HW8_Serialization/SEM": {
+    "result.txt": {
+      "object_size": 130,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "result.json": {
+      "object_size": 196,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "new_names_level.json": {
+      "object_size": 500,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "task3.py": {
+      "object_size": 750,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "result.pickle": {
+      "object_size": 178,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "new_names_level.csv": {
+      "object_size": 59,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "task2.py": {
+      "object_size": 1534,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "task5.py": {
+      "object_size": 707,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "task1.py": {
+      "object_size": 1029,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "new_names_level.pickle": {
+      "object_size": 218,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "names_level.json": {
+      "object_size": 69,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "task4.py": {
+      "object_size": 1372,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    },
+    "names_level.pickle": {
+      "object_size": 73,
+      "object_type": "file",
+      "parant_directory": "SEM"
+    }
+  }
+}

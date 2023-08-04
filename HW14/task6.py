@@ -17,7 +17,7 @@ from Users import User
 def set_up():
     return Project()   # данные для теста
 
-
+@pytest.fixture()
 def test_access_fail_1(set_up):                               # тест на проверку того, что  будет выброс исключения AccesErorr при вводе невалидных данных, AccesErorr  прописан в Exceptions.py
 
     with pytest.raises(AccesErorr, match='Access denied'):

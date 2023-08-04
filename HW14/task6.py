@@ -8,14 +8,14 @@
 import pytest                      # необходимо установить в окружение
 
 
-from sem13_task5 import UserWorkshop
+from sem13_task5 import Project
 from Exceptions import AccesErorr, LevelError
 from Users import User
 
 
 @pytest.fixture()
 def set_up():
-    return UserWorkshop()   # данные для теста
+    return Project()   # данные для теста
 
 
 def test_access_fail_1(set_up):                               # тест на проверку того, что  будет выброс исключения AccesErorr при вводе невалидных данных, AccesErorr  прописан в Exceptions.py

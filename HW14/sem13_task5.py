@@ -15,11 +15,10 @@
 '''
 import json
 from Users import User
-
 from Exceptions import AccesErorr, LevelError
 
 class Project:
-    
+
 
     def __init__(self, project_users = None):
         self.project_users = project_users or []
@@ -74,5 +73,5 @@ class Project:
 
 with Project().fill_project_users() as p:
     print(p.project_users)
-    p.enter('Dan', 654)
+    p.enter('bob', 1)
     print(p.admin)
